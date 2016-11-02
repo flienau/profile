@@ -1,0 +1,85 @@
+/* Here goes your CSS */
+
+body{
+  background-color: #EBEBEB;
+  font-size:13;
+  font-family:'Open Sans', sans-serif;
+  color: #333333;
+  line-height: 2;
+}
+
+#profile-pic{
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+td {
+  margin: 30px auto;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+a:hover {
+  color: #434343;
+}
+
+li {list-style-type: none; }
+
+
+.container{
+  text-align:center;
+  width:600px;
+  margin: 30px auto;
+}
+
+.card {
+  padding: 20px;
+  margin: 20px 0;
+  background: #FFFFFF;
+  box-shadow: 0px 1px 2px #707070;
+  text-align: center;
+  border-radius:4px;
+  text-decoration: none;
+}
+
+
+
+.image {
+  box-shadow: 2px 2px 3px #707070;
+  border-radius:5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 150px;
+}
+
+
+.list-inline{
+  padding: 0px;
+}
+
+.list-inline li{
+  display: inline-block;
+  padding: 15px;
+}
+.list-inline td{
+  padding: 10px;
+}
+
+
+
+
+h1 {
+  color: #D23333;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+
+h3 {
+  font-size: 15px;
+}
